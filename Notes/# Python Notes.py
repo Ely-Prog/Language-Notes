@@ -1,6 +1,17 @@
 # Python Notes
 
 
+
+
+
+#NOTES FOR PUSHING AND COMMITTING 
+
+#1. Stage changes by selecting the + in source control, then hit, the ... at top of source control
+#2. next hit commit staged
+#3. click the dots again,
+#4. Select Push to..
+
+
 # Data Types 
 
 # \n = New Line
